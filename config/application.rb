@@ -25,7 +25,7 @@ module EcomemoBackendApi
     config.load_defaults 6.0
     config.middleware.insert_before 0, Rack::Cors do
       allow do
-          origins 'https://eco-memo.herokuapp.com/'
+          origins 'http://eco-memo.herokuapp.com/'
           resource '*', headers: :any, methods: [:get, :post, :delete]
       end
     end
