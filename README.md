@@ -7,7 +7,7 @@ Due to the fact that I don't have 300 billion dollars to lower carbon emissions,
 
 ## Installation
 
-I hope to eventually host this. 
+Hosted [Here](https://eco-memo.herokuapp.com/) 
 
 Right now, to play, please fork the repository and clone it down. (Make sure you have sqlite3, rails installed). 
 
